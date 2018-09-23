@@ -1,0 +1,13 @@
+---
+title: "challenge"
+output: html_document
+---
+
+#Challenge
+##_Jin_
+###9/23/18
+
+-bullet  
+1. Item  
+-bullet 1  
+2. Item 2  
